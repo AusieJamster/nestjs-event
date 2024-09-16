@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "id": "bbf014a8-d628-ef42-a229-316be0afe3e7",
+  "detail-type": "user.signin.v1",
+  "source": "api.tutelage.au",
+  "account": "015867651054",
+  "time": "2024-08-10T02:21:01Z",
+  "region": "ap-southeast-2",
+  "resources": [],
+  "detail": {
+    "source": [
+      {
+        "prefix": "aws.partner/auth0.com"
+      }
+    ]
+  }
+}
